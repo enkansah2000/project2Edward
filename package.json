@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/enkansah2000/Project2.git"
+    "url": "git+https://github.com/wgbcamp/Project2.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/enkansah2000/Project2/issues"
+    "url": "https://github.com/wgbcamp/Project2/issues"
   },
-  "homepage": "https://github.com/enkansah2000/Project2#readme",
+  "homepage": "https://github.com/wgbcamp/Project2#readme",
   "dependencies": {
     "axios": "^0.19.2",
     "bcryptjs": "^2.4.3",
